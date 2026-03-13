@@ -1,0 +1,8 @@
+# Documentação Técnica (Explicações)
+Bootstrap (Introdução).pdf
+
+# Ignora quaisquer outros PDFs que possam ser adicionados
+*.pdf
+
+# Configurações de IDE (VS Code)
+.vscode/
